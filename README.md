@@ -4,10 +4,10 @@ The goal is to predict how likely individuals are to receive their H1N1 and seas
 In this project to find the best model, I tried to use 5 different regressor algorithms, they are:
 
 - Decision Tree regressor
-- Bayesian-Ridge
+- Bayesian Ridge
 - SVR
-- SGDRegressor
-- RandomForestRegressor
+- SGD Regressor
+- Random Forest Regressor
 
 As a result, 3 of them gave me almost the same score(Bayesian-Ridge & SGDRegressor & RandomForestRegressor), then I applied t-test to find "best one" among them. That was Random Forest Regressor. 
 
