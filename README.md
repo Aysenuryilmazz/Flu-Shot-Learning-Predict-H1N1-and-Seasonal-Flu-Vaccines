@@ -1,9 +1,9 @@
 # Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
 The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. Specifically, be predicting two probabilities: one for h1n1_vaccine and one for seasonal_vaccine.  Each row in the dataset represents one person who responded to the National 2009 H1N1 Flu Survey. For details please visit the link: https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/
 
-team: Ayse
-members: @Aysenuryilmazz, @mustafahakkoz
-current rank: 141/1044
+team: Ayse  
+members: @Aysenuryilmazz, @mustafahakkoz  
+current rank: 141/1044  
 score (AUC): 0.8462
 
 In this project to find the best model, we tried to use 5 different regressor algorithms, they are:
