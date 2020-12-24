@@ -6,7 +6,7 @@ members: [@Aysenuryilmazz](https://github.com/Aysenuryilmazz)
 current rank: 141/1044  
 score (AUC): 0.8462
 
-In this project to find the best model, we tried to use 5 different regressor algorithms, they are:
+In this project to find the best model,  tried 5 different regressor algorithms, they are:
 
 - Decision Tree regressor
 - Bayesian Ridge
